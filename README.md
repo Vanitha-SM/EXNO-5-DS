@@ -195,4 +195,5 @@ plt.show()
 
 
 # Result:
- Include your result here
+The Data Visualization using matplot python library is implemented successfully.
+
